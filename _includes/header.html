@@ -1,13 +1,13 @@
 <header class="site-header">
-    <div class="container">
-        <a href="/" class="logo">{{ site.title }}</a>
+  <div class="container header-flex">
+    <a class="logo" href="/">{{ site.title }}</a>
 
-        <nav>
-            <ul class="nav-menu">
-                {% for item in site.nav_items %}
-                <li><a href="{{ item.url }}">{{ item.name }}</a></li>
-                {% endfor %}
-            </ul>
-        </nav>
-    </div>
+    <nav class="navbar">
+      <ul>
+        {% for item in site.nav_items %}
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 </header>
