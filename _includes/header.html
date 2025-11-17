@@ -10,7 +10,7 @@
 
         <!-- 🌙 Theme Toggle Button -->
         <li>
-          <button id="theme-toggle" class="theme-toggle">
+          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
             🌙
           </button>
         </li>
@@ -24,13 +24,14 @@
   const toggleBtn = document.getElementById("theme-toggle");
   const body = document.body;
 
-  // Load saved theme
+  // Load saved theme on page load
   const savedTheme = localStorage.getItem("theme");
   if (savedTheme) {
     body.classList.toggle("dark-mode", savedTheme === "dark");
     toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
   }
 
+  // Toggle theme
   toggleBtn.addEventListener("click", () => {
     const dark = body.classList.toggle("dark-mode");
     toggleBtn.textContent = dark ? "☀️" : "🌙";
