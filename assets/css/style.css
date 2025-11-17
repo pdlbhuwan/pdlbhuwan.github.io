@@ -75,3 +75,46 @@ h2 {
     color: #555;
     font-size: 14px;
 }
+
+/* Theme Toggle Button */
+.theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 22px;
+    margin-left: 12px;
+    padding: 4px;
+    color: #222;
+}
+
+.theme-toggle:hover {
+    opacity: 0.7;
+}
+
+/* --- DARK MODE --- */
+.dark-mode {
+    background-color: #121212;
+    color: #e5e5e5;
+}
+
+.dark-mode .site-header {
+    background: #1e1e1e;
+    border-bottom: 1px solid #333;
+}
+
+.dark-mode a {
+    color: #9ecbff;
+}
+
+.dark-mode .navbar a:hover {
+    color: #4ea3ff;
+}
+
+.dark-mode .logo {
+    color: #fff;
+}
+
+.dark-mode .site-footer {
+    color: #ccc;
+    border-top: 1px solid #333;
+}
