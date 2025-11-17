@@ -5,8 +5,6 @@ title: "Contact"
 
 # Contact
 
-You can add your contact details here.
-
 - Email: pdlbhuwan@yahoo.com
 - LinkedIn: https://www.linkedin.com/in/pdlbhuwan/
 - Google Scholar: https://scholar.google.co.in/citations?user=SDznvJUAAAAJ&hl=en
