@@ -7,7 +7,33 @@
         {% for item in site.nav_items %}
         <li><a href="{{ item.url }}">{{ item.name }}</a></li>
         {% endfor %}
+
+        <!-- 🌙 Theme Toggle Button -->
+        <li>
+          <button id="theme-toggle" class="theme-toggle">
+            🌙
+          </button>
+        </li>
       </ul>
     </nav>
   </div>
 </header>
+
+<script>
+  // ---- DARK MODE LOGIC ----
+  const toggleBtn = document.getElementById("theme-toggle");
+  const body = document.body;
+
+  // Load saved theme
+  const savedTheme = localStorage.getItem("theme");
+  if (savedTheme) {
+    body.classList.toggle("dark-mode", savedTheme === "dark");
+    toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+  }
+
+  toggleBtn.addEventListener("click", () => {
+    const dark = body.classList.toggle("dark-mode");
+    toggleBtn.textContent = dark ? "☀️" : "🌙";
+    localStorage.setItem("theme", dark ? "dark" : "light");
+  });
+</script>
