@@ -5,6 +5,8 @@ title: Contact
 
 # Contact
 
+If you would like to learn more about me, please feel free to contact or connect with me using the links below:
+
 <style>
 .contact-wrapper {
   display: flex;
