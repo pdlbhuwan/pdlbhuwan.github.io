@@ -5,7 +5,7 @@ title: "Projects"
 
 # Projects
 
-Here are some small experiments (could be anything outside acamedia) that I work on in my free time.
+Here are some small experiments (could be anything outside academia) that I work on in my free time.
 
 ## Project 1: Interactive Valentine Page
 
