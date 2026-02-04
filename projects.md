@@ -5,13 +5,8 @@ title: "Projects"
 
 # Projects
 
-List your projects here.
+These are the list of some small experiments that I do in my free time.
 
 ## Project 1: Interactive Valentine Page
 
-A playful interactive webpage built with HTML, CSS, and JavaScript.
-
-🔗 **[Live Demo](https://pdlbhuwan.github.io/assets/projects/valentine.html)**
-
-## Project 2
-Description...
+I made this for my wife for Valentine 2026: **[Click here](https://pdlbhuwan.github.io/assets/projects/valentine.html)**
