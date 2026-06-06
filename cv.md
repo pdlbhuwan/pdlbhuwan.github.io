@@ -8,21 +8,17 @@ title: "CV"
 ## General Information
 
 - **Full Name:** Bhuwan Poudel  
-- **Email:** your.email@utexas.edu  
-- **Google Scholar:** https://scholar.google.com  
-- **Institution:** University of Texas at Austin  
-- **Languages:** English, Nepali, Hindi  
+- **Current Affiliation:** The University of Texas at Austin  
+- **Languages:** English, Nepali, Hindi, German (B1) 
 
 ---
 
-## Areas of Research
+## Research Areas
 
-- Polymer Physics  
-- Soft Condensed Matter  
-- Biological Physics  
-- Chromosome Mechanics  
-- Computational Modeling and Simulations  
-- Data-driven approaches in biophysical systems  
+- Polymer Physics
+- Soft Matter Physics  
+- Computational Modeling and Simulations
+- Chromosome Mechanics
 
 ---
 
