@@ -8,15 +8,15 @@ title: "Home"
 
 # Welcome
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; gap: 25px; align-items: flex-start;">
 
   <div style="flex: 0 0 220px;">
-    <img src="assets/images/profile.png" 
-         alt="Bhuwan Poudel" 
+    <img src="assets/images/profile.png"
+         alt="Bhuwan Poudel"
          style="width: 220px; border-radius: 10px;">
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: justify;">
 
 I am currently a Postdoctoral Fellow in the Department of Chemistry at The University of Texas at Austin, working with [Prof. Dave Thirumalai](https://scholar.google.com/citations?hl=en&user=sNiAY9IAAAAJ&view_op=list_works&sortby=pubdate). My research combines polymer physics, computational modeling, and biophysics to understand chromosome organization and mechanics through data-driven approaches.
 
