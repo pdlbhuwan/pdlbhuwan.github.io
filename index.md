@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome
 
-<img src="assets/images/profile.jpg" alt="Bhuwan Poudel" width="250" align="right">
+<img src="assets/images/profile.png" alt="Bhuwan Poudel" width="250" align="right">
 
 I am a Postdoctoral Fellow in the Department of Chemistry at The University of Texas at Austin, working with [Prof. Dave Thirumalai](https://scholar.google.com/citations?hl=en&user=sNiAY9IAAAAJ&view_op=list_works&sortby=pubdate).
 
