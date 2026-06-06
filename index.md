@@ -5,9 +5,13 @@ title: "Home"
 
 # Welcome
 
-Welcome to my research website. I am a Postdoctoral Fellow at The University of Texas at Austin, where I work on understanding chromosome organization and mechanics through polymer-based, data-driven approaches. My broader interests span polymer physics, soft matter, biophysics, and computational modeling.
+<img src="assets/images/profile.jpg" alt="Bhuwan Poudel" width="250" align="right">
 
-Here you can find information about my research, publications, and ongoing projects. Feel free to explore.
+I am a Postdoctoral Fellow in the Department of Chemistry at The University of Texas at Austin, working with [Prof. Dave Thirumalai](https://scholar.google.com/citations?hl=en&user=sNiAY9IAAAAJ&view_op=list_works&sortby=pubdate).
+
+My research combines polymer physics, computational modeling, and biophysics to understand chromosome organization and mechanics through data-driven approaches.
+
+Feel free to explore my research, publications, and ongoing projects.
 
 ## Short Bio
 
