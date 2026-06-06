@@ -16,9 +16,9 @@ title: "CV"
 ## Research Areas
 
 - Polymer Physics
-- Soft Matter Physics  
-- Computational Modeling and Simulations
+- Soft Matter Physics
 - Chromosome Mechanics
+- Computational Modeling and Simulations
 
 ---
 
